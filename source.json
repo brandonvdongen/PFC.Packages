@@ -1,28 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"PFC Package Listing",
+    "id":"nl.brandonvdongen.pfc.packages",
+    "url":"https://brandonvdongen.github.io/pfc.packages/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"brandonvdongen@hotmail.com",
+        "name":"PF_Cactus",
+        "url":"https://brandonvdongen.nl"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A list of all my custom VRChat Related Packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/brandonvdongen/PFC.Packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "brandonvdongen/PFC.Toolkit"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
